@@ -1,0 +1,4 @@
+conjunto = 0
+for g in range(0, 101):
+    conjunto = conjunto + g
+print("La sumatoria de los numeros del 0 al 100 es:", conjunto)
