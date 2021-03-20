@@ -1,0 +1,5 @@
+oracion = input("Oracion: ")
+print("la oracion tiene contiene las vocales: ")
+for e in ("aeiou"):
+    if e in oracion:
+        print(e)
